@@ -29,7 +29,8 @@ const postfixes = [
     "推眼鏡",
     "？",
     "汗顏",
-    "咳咳"
+    "咳咳",
+    "ㄏㄏ"
 ]
 
 export {first_person, everybody_tranlated, openings, prefixes, postfixes};
