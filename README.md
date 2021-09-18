@@ -1,6 +1,9 @@
 # otaku-translator-pro
 Otaku translator pro
 
+### Release Link
+https://kaminyou.com/otaku-translator-pro/
+
 ### Notice
 Please feel free to send pull request to enlarge the dataset.
 
