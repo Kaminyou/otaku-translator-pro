@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/otaku-translator-pro/static/css/main.562afb63.chunk.css",
+    "main.js": "/otaku-translator-pro/static/js/main.4803199a.chunk.js",
+    "main.js.map": "/otaku-translator-pro/static/js/main.4803199a.chunk.js.map",
+    "runtime-main.js": "/otaku-translator-pro/static/js/runtime-main.cb941fa7.js",
+    "runtime-main.js.map": "/otaku-translator-pro/static/js/runtime-main.cb941fa7.js.map",
+    "static/js/2.4833aa0b.chunk.js": "/otaku-translator-pro/static/js/2.4833aa0b.chunk.js",
+    "static/js/2.4833aa0b.chunk.js.map": "/otaku-translator-pro/static/js/2.4833aa0b.chunk.js.map",
+    "static/js/3.79697969.chunk.js": "/otaku-translator-pro/static/js/3.79697969.chunk.js",
+    "static/js/3.79697969.chunk.js.map": "/otaku-translator-pro/static/js/3.79697969.chunk.js.map",
+    "index.html": "/otaku-translator-pro/index.html",
+    "static/css/main.562afb63.chunk.css.map": "/otaku-translator-pro/static/css/main.562afb63.chunk.css.map",
+    "static/js/2.4833aa0b.chunk.js.LICENSE.txt": "/otaku-translator-pro/static/js/2.4833aa0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb941fa7.js",
+    "static/js/2.4833aa0b.chunk.js",
+    "static/css/main.562afb63.chunk.css",
+    "static/js/main.4803199a.chunk.js"
+  ]
+}
