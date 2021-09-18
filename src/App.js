@@ -23,7 +23,7 @@ function App() {
   const randomBoolean = () => (Math.random() < (otakuLevel * 0.01));
 
   const translate = (text) => {
-    if (text == ''){
+    if (text === ''){
       alert("呀咧呀咧 不打點字嗎www(歪頭");
       return;
     }
@@ -86,7 +86,7 @@ function App() {
         </Button>
         <hr />
         <textarea readOnly className="text-input" placeholder="轉換結果" cols="100" rows="15" value={tranlatedText}></textarea>
-        <a className="developer" href ="https://github.com/Kaminyou" target="_blank">Developed by Kaminyou</a>
+        <a className="developer" href ="https://github.com/Kaminyou" target="_blank" rel="noreferrer noopener">Developed by Kaminyou</a>
       </header>
     </div>
   );
